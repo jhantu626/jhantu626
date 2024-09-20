@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://www.buymeacoffee.com/jhantubalap](https://www.buymeacoffee.com/jhantubalap)
 
 - 💬 Ask me about **Spring Boot, Microservices, Core Java**
+- - 💬 Ask me about **MERN, React-Native, Android App Development**
 
 - 📫 How to reach me **jhantubala626@gmail.com**
 
